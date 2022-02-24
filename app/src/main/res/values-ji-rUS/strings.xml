@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">פלייש מילכיק טיימער</string>
+    <string name="stop">אָפּשטעל</string>
+    <string name="start_countdown">אָנהייב קאַונטינג</string>
+    <string name="remaining_time">רוען צייט:</string>
+    <string name="lookup_halacha">זוכן הלכה</string>
+    <string name="play_sound_on_completion">שפּיל געזונט אויף קאַמפּלישאַן</string>
+    <string name="please_choose_a_minhag_first">ביטע קלייבן אַ מינהג ערשטער</string>
+    <string name="you_can_now_eat_dairy_again">איר קענען איצט עסן מילכיק ווידער</string>
+    <string name="you_can_eat_dairy_again_at">איר קענען עסן מילכיק ווידער אין</string>
+    <string name="channel_description">אָנזאָג פֿאַר ריסיווינג ווען איר ניטאָ ניט מער פליישיג.</string>
+    <string name="channel_name">מיט מילכיק טימער אָנזאָג</string>
+    <string name="elapsed_since">גערעכנט פון</string>
+    <string name="app_logo">אַפּ בילדל</string>
+</resources>

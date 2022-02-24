@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">טיימר חלבי בשר</string>
+    <string name="channel_name">התראות של טיימר חלבי בשר</string>
+    <string name="start_countdown">להתחיל לספור</string>
+    <string name="stop">תפסיק</string>
+    <string name="please_choose_a_minhag_first">אנא בחר מנהג תחילה!</string>
+    <string name="remaining_time">זמן שנותר:</string>
+    <string name="channel_description">התראות לקבלת כאשר אתה כבר לא פליישיג.</string>
+    <string name="play_sound_on_completion">השמעת צליל בסיום</string>
+    <string name="lookup_halacha">חיפוש הלכה</string>
+    <string name="you_can_now_eat_dairy_again">אתה יכול לאכול מוצרי חלב!</string>
+    <string name="you_can_eat_dairy_again_at">אתה יכול לאכול חלבי ב</string>
+    <string name="elapsed_since">חלף מאז</string>
+    <string name="app_logo">לוגו האפליקציה</string>
+</resources>
