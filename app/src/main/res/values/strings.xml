@@ -1,25 +1,30 @@
 <resources>
-    <string name="app_name">Meat Dairy Timer</string>
+    <string name="app_name">Meat/Dairy Timer</string>
     <string name="channel_name">Meat Dairy Timer Notifications</string>
-    <string name="channel_description">Notifications for receiving when you\'re no longer Fleishig.</string>
+    <string name="channel_description">Notifications for when you\'re not Fleishig.</string>
     <string name="start_countdown">Start Countdown</string>
     <string name="stop">Stop</string>
     <string name="please_choose_a_minhag_first">Please choose a Minhag first!</string>
     <string name="remaining_time">Remaining time:</string>
     <string name="play_sound_on_completion">Play sound on completion</string>
     <string name="lookup_halacha">Lookup Halacha</string>
-    <string name="you_can_now_eat_dairy_again">You can now eat dairy again!</string>
-    <string name="you_can_eat_dairy_again_at">You can eat dairy again at</string>
+    <string name="you_can_eat_dairy_now">You can eat dairy now!</string>
+    <string name="you_can_eat_dairy_at">You can eat dairy at</string>
     <string name="elapsed_since">elapsed since</string>
     <string name="app_logo">App Logo</string>
+    <string name="choose_your_minhag">Choose your Minhag</string>
+    <string name="six_hours">6 Hours</string>
+    <string name="five_hours_31_min">5 Hours 31 Minutes</string>
+    <string name="five_hours_1_min">5 Hours 1 Minute</string>
+    <string name="three_hours">3 Hours</string>
+    <string name="one_hour">1 Hour</string>
 
     <string-array name="minhag_array">
-        <item>Choose your Minhag</item>
-        <item>6 Hours</item>
-        <item>5 Hours 31 Minutes</item>
-        <item>5 Hours 1 Minute</item>
-        <item>3 Hours</item>
-        <item>1 Hour</item>
-        <item>5 Second Demo</item>
+        <item>@string/choose_your_minhag</item>
+        <item>@string/six_hours</item>
+        <item>@string/five_hours_31_min</item>
+        <item>@string/five_hours_1_min</item>
+        <item>@string/three_hours</item>
+        <item>@string/one_hour</item>
     </string-array>
 </resources>
