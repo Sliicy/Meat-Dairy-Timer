@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">פלייש מילכיק טיימער</string>
-    <string name="stop">אָפּשטעל</string>
+    <string name="app_name">פליישיג מילכיק טיימער</string>
+    <string name="stop">האַלטן</string>
     <string name="start_countdown">אָנהייב קאַונטינג</string>
-    <string name="remaining_time">רוען צייט:</string>
-    <string name="lookup_halacha">זוכן הלכה</string>
-    <string name="play_sound_on_completion">שפּיל געזונט אויף קאַמפּלישאַן</string>
-    <string name="please_choose_a_minhag_first">ביטע קלייבן אַ מינהג ערשטער</string>
-    <string name="you_can_now_eat_dairy_again">איר קענען איצט עסן מילכיק ווידער</string>
-    <string name="you_can_eat_dairy_again_at">איר קענען עסן מילכיק ווידער אין</string>
-    <string name="channel_description">אָנזאָג פֿאַר ריסיווינג ווען איר ניטאָ ניט מער פליישיג.</string>
-    <string name="channel_name">מיט מילכיק טימער אָנזאָג</string>
-    <string name="elapsed_since">גערעכנט פון</string>
-    <string name="app_logo">אַפּ בילדל</string>
+    <string name="remaining_time">צייט פרבליבען:</string>
+    <string name="lookup_halacha">ווייז די הלכה</string>
+    <string name="play_sound_on_completion">לאז מיר וויסען אויף קאַמפּלישאַן</string>
+    <string name="please_choose_a_minhag_first">קלויב אַ מינהג!</string>
+    <string name="you_can_eat_dairy_now">איר קענט איצט עסן מילכיק</string>
+    <string name="you_can_eat_dairy_at">איר קענט עסן מילכיק ביי</string>
+    <string name="channel_description">נאָוטאַפאַקיישאַנז פֿאַר לאָזן מיר וויסן ווען איר זענט פּאַרווע.</string>
+    <string name="channel_name">פליישיג מילכיק טייַמער נאָוטאַפאַקיישאַנז</string>
+    <string name="elapsed_since">דורכגעגאנגען זינט</string>
+    <string name="app_logo">אַפּ בילד</string>
+    <string name="choose_your_minhag">קלייַב דיר מינהג</string>
+    <string name="one_hour">1 שעה</string>
+    <string name="three_hours">3 שעה</string>
+    <string name="five_hours_1_min">5 שעה 1 מינוט</string>
+    <string name="five_hours_31_min">5 שעה 31 מינוט</string>
+    <string name="six_hours">6 שעה</string>
 </resources>

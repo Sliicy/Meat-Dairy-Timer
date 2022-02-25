@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">טיימר חלבי בשר</string>
-    <string name="channel_name">התראות של טיימר חלבי בשר</string>
-    <string name="start_countdown">להתחיל לספור</string>
-    <string name="stop">תפסיק</string>
-    <string name="please_choose_a_minhag_first">אנא בחר מנהג תחילה!</string>
+    <string name="app_name">טיימר בשרי וחלבי</string>
+    <string name="channel_name">התראות של טיימר בשרי וחלבי</string>
+    <string name="start_countdown">תחילת ספירה</string>
+    <string name="stop">עצור</string>
+    <string name="please_choose_a_minhag_first">בחר מנהג תחילה!</string>
     <string name="remaining_time">זמן שנותר:</string>
-    <string name="channel_description">התראות לקבלת כאשר אתה כבר לא פליישיג.</string>
+    <string name="channel_description">התראה כאשר אתה לא בשרי</string>
     <string name="play_sound_on_completion">השמעת צליל בסיום</string>
     <string name="lookup_halacha">חיפוש הלכה</string>
-    <string name="you_can_now_eat_dairy_again">אתה יכול לאכול מוצרי חלב!</string>
-    <string name="you_can_eat_dairy_again_at">אתה יכול לאכול חלבי ב</string>
-    <string name="elapsed_since">חלף מאז</string>
+    <string name="you_can_eat_dairy_now">אתה יכול לאכול חלבי!</string>
+    <string name="you_can_eat_dairy_at">אתה יכול לאכול חלבי ב</string>
+    <string name="elapsed_since">זמן שחלף</string>
     <string name="app_logo">לוגו האפליקציה</string>
+    <string name="choose_your_minhag">בחר מנהג</string>
+    <string name="six_hours">6 שעות</string>
+    <string name="five_hours_31_min">5 שעות 31 דקות</string>
+    <string name="five_hours_1_min">5 שעות 1 דקות</string>
+    <string name="three_hours">3 שעות</string>
+    <string name="one_hour">1 שעה</string>
 </resources>
