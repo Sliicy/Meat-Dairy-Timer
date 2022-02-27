@@ -4,10 +4,8 @@
     <string name="channel_name">התראות של טיימר בשרי וחלבי</string>
     <string name="start_countdown">תחילת ספירה</string>
     <string name="stop">עצור</string>
-    <string name="please_choose_a_minhag_first">בחר מנהג תחילה!</string>
     <string name="remaining_time">זמן שנותר:</string>
     <string name="channel_description">התראה כאשר אתה לא בשרי</string>
-    <string name="play_sound_on_completion">השמעת צליל בסיום</string>
     <string name="lookup_halacha">חיפוש הלכה</string>
     <string name="you_can_eat_dairy_now">אתה יכול לאכול חלבי!</string>
     <string name="you_can_eat_dairy_at">אתה יכול לאכול חלבי ב</string>

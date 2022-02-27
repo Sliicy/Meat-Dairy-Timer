@@ -4,9 +4,7 @@
     <string name="channel_description">Notifications for when you\'re not Fleishig.</string>
     <string name="start_countdown">Start Countdown</string>
     <string name="stop">Stop</string>
-    <string name="please_choose_a_minhag_first">Please choose a Minhag first!</string>
     <string name="remaining_time">Remaining time:</string>
-    <string name="play_sound_on_completion">Play sound on completion</string>
     <string name="lookup_halacha">Lookup Halacha</string>
     <string name="you_can_eat_dairy_now">You can eat dairy now!</string>
     <string name="you_can_eat_dairy_at">You can eat dairy at</string>
@@ -20,7 +18,6 @@
     <string name="one_hour">1 Hour</string>
 
     <string-array name="minhag_array">
-        <item>@string/choose_your_minhag</item>
         <item>@string/six_hours</item>
         <item>@string/five_hours_31_min</item>
         <item>@string/five_hours_1_min</item>

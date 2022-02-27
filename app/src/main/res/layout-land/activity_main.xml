@@ -26,6 +26,18 @@
         app:layout_constraintStart_toEndOf="@+id/imageViewAppIcon"
         app:layout_constraintTop_toTopOf="@+id/imageViewAppIcon" />
 
+    <TextView
+        android:id="@+id/textViewChooseMinhag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:text="@string/choose_your_minhag"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewAppTitle"
+        app:layout_constraintEnd_toEndOf="@+id/spinnerMinhag"
+        app:layout_constraintStart_toStartOf="@+id/spinnerMinhag"
+        app:layout_constraintTop_toTopOf="@+id/textViewAppTitle" />
+
     <Spinner
         android:id="@+id/spinnerMinhag"
         android:layout_width="270dp"
@@ -35,9 +47,8 @@
         android:minHeight="180dp"
         android:padding="5dip"
         android:textSize="25sp"
-        app:layout_constraintBottom_toBottomOf="@+id/imageViewAppIcon"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageViewAppIcon" />
+        app:layout_constraintTop_toBottomOf="@+id/textViewChooseMinhag" />
 
     <TextView
         android:id="@+id/textViewTime"
@@ -46,32 +57,19 @@
         android:padding="25sp"
         android:textAlignment="center"
         android:textSize="25sp"
-        app:layout_constraintBottom_toTopOf="@+id/buttonCountDown"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buttonLookup" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/buttonCountDown"
         android:layout_width="350dp"
         android:layout_height="90dp"
-        android:layout_marginBottom="30dp"
+        android:layout_marginBottom="16dp"
         android:padding="25dip"
         android:text="@string/start_countdown"
-        android:textSize="25sp"
-        app:layout_constraintBottom_toTopOf="@+id/switchSoundComplete"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent" />
-
-    <androidx.appcompat.widget.SwitchCompat
-        android:id="@+id/switchSoundComplete"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="30dp"
-        android:switchPadding="15sp"
-        android:text="@string/play_sound_on_completion"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -83,9 +81,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
         android:text="@string/lookup_halacha"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spinnerMinhag" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
