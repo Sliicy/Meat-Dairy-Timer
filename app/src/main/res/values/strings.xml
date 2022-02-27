@@ -10,7 +10,8 @@
     <string name="you_can_eat_dairy_at">You can eat dairy at</string>
     <string name="elapsed_since">elapsed since</string>
     <string name="app_logo">App Logo</string>
-    <string name="choose_your_minhag">Choose your Minhag</string>
+    <string name="choose_your_minhag_text_view">Choose your Minhag</string>
+    <string name="minhag_selection">Choose a Minhag</string>
     <string name="six_hours">6 Hours</string>
     <string name="five_hours_31_min">5 Hours 31 Minutes</string>
     <string name="five_hours_1_min">5 Hours 1 Minute</string>

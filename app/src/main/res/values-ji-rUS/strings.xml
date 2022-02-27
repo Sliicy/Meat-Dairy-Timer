@@ -11,10 +11,11 @@
     <string name="channel_name">פליישיג מילכיק טייַמער נאָוטאַפאַקיישאַנז</string>
     <string name="elapsed_since">דורכגעגאנגען זינט</string>
     <string name="app_logo">אַפּ בילד</string>
-    <string name="choose_your_minhag">קלייַב דיר מינהג</string>
     <string name="one_hour">1 שעה</string>
     <string name="three_hours">3 שעה</string>
     <string name="five_hours_1_min">5 שעה 1 מינוט</string>
     <string name="five_hours_31_min">5 שעה 31 מינוט</string>
     <string name="six_hours">6 שעה</string>
+    <string name="minhag_selection">מינהגים</string>
+    <string name="choose_your_minhag_text_view">קלייַב דיר מינהג</string>
 </resources>
