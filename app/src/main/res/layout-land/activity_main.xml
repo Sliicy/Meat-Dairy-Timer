@@ -30,10 +30,11 @@
         android:id="@+id/textViewChooseMinhag"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="16dp"
+
         android:text="@string/choose_your_minhag_text_view"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="@+id/textViewAppTitle"
+
         app:layout_constraintEnd_toEndOf="@+id/spinnerMinhag"
         app:layout_constraintStart_toStartOf="@+id/spinnerMinhag"
         app:layout_constraintTop_toTopOf="@+id/textViewAppTitle" />
@@ -42,13 +43,14 @@
         android:id="@+id/spinnerMinhag"
         android:layout_width="270dp"
         android:layout_height="56dp"
-        android:layout_marginEnd="16dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
         android:contentDescription="@string/minhag_selection"
         android:minHeight="180dp"
         android:padding="5dip"
         android:textSize="25sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textViewChooseMinhag" />
+        app:layout_constraintTop_toBottomOf="@id/textViewChooseMinhag" />
 
     <TextView
         android:id="@+id/textViewTime"
@@ -66,22 +68,19 @@
     <Button
         android:id="@+id/buttonCountDown"
         android:layout_width="350dp"
-        android:layout_height="90dp"
-        android:layout_marginBottom="16dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
         android:padding="25dip"
         android:text="@string/start_countdown"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/buttonLookup"
-        android:layout_width="wrap_content"
+        android:layout_width="120dp"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_margin="20dp"
         android:text="@string/lookup_halacha"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
